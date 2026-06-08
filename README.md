@@ -9,7 +9,7 @@ This project demonstrates end-to-end test automation, modular framework design, 
 
 - **Python 3.x**  
 - **Selenium WebDriver**  
-- **Behave(BDD **
+- **Behave(BDD framework)**
 - **Page Object Model (POM)** design pattern  
 - **CSV / Test Data files** – External test data  
 - **Reports** – Test report folder (Allure)  
