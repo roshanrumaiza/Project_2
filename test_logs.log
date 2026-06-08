@@ -1,0 +1,914 @@
+2026-05-31 17:04:59,064 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:04:59,064 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:05:10,710 : INFO : root : Success message displayed
+2026-05-31 17:05:10,710 : INFO : root : Success message displayed
+2026-05-31 17:05:28,217 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:05:28,217 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:05:32,849 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-05-31 17:05:32,849 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-05-31 17:05:35,323 : INFO : root : Newly created user is present in the list
+2026-05-31 17:05:35,323 : INFO : root : Newly created user is present in the list
+2026-05-31 17:05:43,386 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-05-31 17:05:43,386 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-05-31 17:05:49,423 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,423 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,503 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,503 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,564 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,564 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,620 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,620 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,688 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,688 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,763 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,763 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,798 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,798 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,854 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:49,854 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:05:58,699 : INFO : root : Validate the presence of menu items under My Info
+2026-05-31 17:05:58,699 : INFO : root : Validate the presence of menu items under My Info
+2026-05-31 17:06:09,479 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:09,479 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:11,837 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:11,837 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:14,039 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:14,039 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:15,793 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:15,793 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:17,039 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:17,039 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:18,802 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:18,802 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:21,443 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:21,443 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:24,823 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:24,823 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:27,361 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:27,361 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:29,441 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:29,441 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:06:39,277 : INFO : root : Initiating the claim request
+2026-05-31 17:06:39,277 : INFO : root : Initiating the claim request
+2026-05-31 17:06:54,534 : INFO : root : Claim request has been initiated successfully
+2026-05-31 17:06:54,534 : INFO : root : Claim request has been initiated successfully
+2026-05-31 17:06:57,219 : INFO : root : The claim request is listed in claim history
+2026-05-31 17:06:57,219 : INFO : root : The claim request is listed in claim history
+2026-05-31 17:07:05,156 : INFO : root : Verifying the home URL is accessible
+2026-05-31 17:07:05,156 : INFO : root : Verifying the home URL is accessible
+2026-05-31 17:07:12,526 : INFO : root : Validating presence of login fields
+2026-05-31 17:07:12,526 : INFO : root : Validating presence of login fields
+2026-05-31 17:07:13,093 : INFO : root : Login fields are visible and displayed
+2026-05-31 17:07:13,093 : INFO : root : Login fields are visible and displayed
+2026-05-31 17:07:40,510 : INFO : root : Adm:Test failed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff628007de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff628007e50+14900]
+	chromedriver!(No symbol) [0x7ff627d6d5ad]
+	chromedriver!(No symbol) [0x7ff627dc7822]
+	chromedriver!(No symbol) [0x7ff627dc7b2c]
+	chromedriver!(No symbol) [0x7ff627e17d17]
+	chromedriver!(No symbol) [0x7ff627e1486f]
+	chromedriver!(No symbol) [0x7ff627db9df8]
+	chromedriver!(No symbol) [0x7ff627dbace3]
+	chromedriver!GetHandleVerifier [0x7ff62831cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff628317375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff62833bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff628026045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff62802ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff628011bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff628011d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff627ff60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe49e4e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe4b0cc3fc+2c]
+
+2026-05-31 17:07:40,510 : INFO : root : Adm:Test failed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff628007de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff628007e50+14900]
+	chromedriver!(No symbol) [0x7ff627d6d5ad]
+	chromedriver!(No symbol) [0x7ff627dc7822]
+	chromedriver!(No symbol) [0x7ff627dc7b2c]
+	chromedriver!(No symbol) [0x7ff627e17d17]
+	chromedriver!(No symbol) [0x7ff627e1486f]
+	chromedriver!(No symbol) [0x7ff627db9df8]
+	chromedriver!(No symbol) [0x7ff627dbace3]
+	chromedriver!GetHandleVerifier [0x7ff62831cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff628317375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff62833bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff628026045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff62802ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff628011bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff628011d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff627ff60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe49e4e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe4b0cc3fc+2c]
+
+2026-05-31 17:07:58,157 : INFO : root : Verifying Forgot Password link functionality
+2026-05-31 17:07:58,157 : INFO : root : Verifying Forgot Password link functionality
+2026-05-31 17:08:01,388 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-05-31 17:08:01,388 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-05-31 17:13:46,672 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:13:46,672 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:13:57,798 : INFO : root : Success message displayed
+2026-05-31 17:13:57,798 : INFO : root : Success message displayed
+2026-05-31 17:14:11,074 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:14:11,074 : INFO : root : Creating a new user and validating the login
+2026-05-31 17:14:15,755 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-05-31 17:14:15,755 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-05-31 17:14:19,754 : INFO : root : Newly created user is present in the list
+2026-05-31 17:14:19,754 : INFO : root : Newly created user is present in the list
+2026-05-31 17:14:27,233 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-05-31 17:14:27,233 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-05-31 17:14:30,283 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:14:30,283 : INFO : root : Main menu items is visible and enabled
+2026-05-31 17:14:39,290 : INFO : root : Validate the presence of menu items under My Info
+2026-05-31 17:14:39,290 : INFO : root : Validate the presence of menu items under My Info
+2026-05-31 17:14:57,761 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:14:57,761 : INFO : root : Menu items under My info is visible and clickable
+2026-05-31 17:15:07,680 : INFO : root : Initiating the claim request
+2026-05-31 17:15:07,680 : INFO : root : Initiating the claim request
+2026-05-31 17:15:14,920 : INFO : root : Claim request has been initiated successfully
+2026-05-31 17:15:14,920 : INFO : root : Claim request has been initiated successfully
+2026-05-31 17:15:17,023 : INFO : root : The claim request is listed in claim history
+2026-05-31 17:15:17,023 : INFO : root : The claim request is listed in claim history
+2026-05-31 17:15:24,844 : INFO : root : Verifying the home URL is accessible
+2026-05-31 17:15:24,844 : INFO : root : Verifying the home URL is accessible
+2026-05-31 17:15:24,849 : INFO : root : Home URL loaded without any error
+2026-05-31 17:15:24,849 : INFO : root : Home URL loaded without any error
+2026-05-31 17:15:34,283 : INFO : root : Validating presence of login fields
+2026-05-31 17:15:34,283 : INFO : root : Validating presence of login fields
+2026-05-31 17:15:34,867 : INFO : root : Login fields are visible and displayed
+2026-05-31 17:15:34,867 : INFO : root : Login fields are visible and displayed
+2026-05-31 17:15:44,403 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-05-31 17:15:44,403 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-05-31 17:16:04,810 : INFO : root : Verifying Forgot Password link functionality
+2026-05-31 17:16:04,810 : INFO : root : Verifying Forgot Password link functionality
+2026-05-31 17:16:08,567 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-05-31 17:16:08,567 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-01 16:48:28,151 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-01 16:48:28,151 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-01 16:49:13,082 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7ce147de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7ce147e50+14900]
+	chromedriver!(No symbol) [0x7ff7cdead5ad]
+	chromedriver!(No symbol) [0x7ff7cdf07822]
+	chromedriver!(No symbol) [0x7ff7cdf07b2c]
+	chromedriver!(No symbol) [0x7ff7cdf57d17]
+	chromedriver!(No symbol) [0x7ff7cdf5486f]
+	chromedriver!(No symbol) [0x7ff7cdef9df8]
+	chromedriver!(No symbol) [0x7ff7cdeface3]
+	chromedriver!GetHandleVerifier [0x7ff7ce45cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7ce457375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7ce47bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7ce166045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7ce16ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7ce151bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7ce151d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7ce1360e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-01 16:49:13,082 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7ce147de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7ce147e50+14900]
+	chromedriver!(No symbol) [0x7ff7cdead5ad]
+	chromedriver!(No symbol) [0x7ff7cdf07822]
+	chromedriver!(No symbol) [0x7ff7cdf07b2c]
+	chromedriver!(No symbol) [0x7ff7cdf57d17]
+	chromedriver!(No symbol) [0x7ff7cdf5486f]
+	chromedriver!(No symbol) [0x7ff7cdef9df8]
+	chromedriver!(No symbol) [0x7ff7cdeface3]
+	chromedriver!GetHandleVerifier [0x7ff7ce45cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7ce457375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7ce47bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7ce166045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7ce16ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7ce151bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7ce151d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7ce1360e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:47:14,654 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:47:14,654 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:47:35,952 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:47:35,952 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:48:09,107 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:48:09,107 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:48:29,891 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:48:29,891 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:50:23,876 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:50:23,876 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:50:45,305 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:50:45,305 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:52:17,026 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:52:17,026 : INFO : root : Assign leave to an employee and verify assignment
+2026-06-02 12:52:36,441 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-02 12:52:36,441 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adc77de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7adc77e50+14900]
+	chromedriver!(No symbol) [0x7ff7ad9dd5ad]
+	chromedriver!(No symbol) [0x7ff7ada37822]
+	chromedriver!(No symbol) [0x7ff7ada37b2c]
+	chromedriver!(No symbol) [0x7ff7ada87d17]
+	chromedriver!(No symbol) [0x7ff7ada8486f]
+	chromedriver!(No symbol) [0x7ff7ada29df8]
+	chromedriver!(No symbol) [0x7ff7ada2ace3]
+	chromedriver!GetHandleVerifier [0x7ff7adf8cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7adf87375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7adfabc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7adc96045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7adc9ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7adc81bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7adc81d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7adc660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-03 11:34:34,916 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:34:34,916 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:34:44,684 : INFO : root : Success message displayed
+2026-06-03 11:34:44,684 : INFO : root : Success message displayed
+2026-06-03 11:34:59,447 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:34:59,447 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:35:03,689 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-03 11:35:03,689 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-03 11:35:06,471 : INFO : root : Newly created user is present in the list
+2026-06-03 11:35:06,471 : INFO : root : Newly created user is present in the list
+2026-06-03 11:35:14,583 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 11:35:14,583 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 11:35:18,798 : INFO : root : Main menu items is visible and enabled
+2026-06-03 11:35:18,798 : INFO : root : Main menu items is visible and enabled
+2026-06-03 11:35:28,723 : INFO : root : Validate the presence of menu items under My Info
+2026-06-03 11:35:28,723 : INFO : root : Validate the presence of menu items under My Info
+2026-06-03 11:36:10,129 : INFO : root : Menu items under My info is visible and clickable
+2026-06-03 11:36:10,129 : INFO : root : Menu items under My info is visible and clickable
+2026-06-03 11:36:18,921 : INFO : root : Initiating the claim request
+2026-06-03 11:36:18,921 : INFO : root : Initiating the claim request
+2026-06-03 11:36:28,684 : INFO : root : Claim request has been initiated successfully
+2026-06-03 11:36:28,684 : INFO : root : Claim request has been initiated successfully
+2026-06-03 11:36:30,613 : INFO : root : The claim request is listed in claim history
+2026-06-03 11:36:30,613 : INFO : root : The claim request is listed in claim history
+2026-06-03 11:36:38,144 : INFO : root : Verifying the home URL is accessible
+2026-06-03 11:36:38,144 : INFO : root : Verifying the home URL is accessible
+2026-06-03 11:36:38,153 : INFO : root : Home URL loaded without any error
+2026-06-03 11:36:38,153 : INFO : root : Home URL loaded without any error
+2026-06-03 11:36:46,462 : INFO : root : Validating presence of login fields
+2026-06-03 11:36:46,462 : INFO : root : Validating presence of login fields
+2026-06-03 11:36:47,600 : INFO : root : Login fields are visible and displayed
+2026-06-03 11:36:47,600 : INFO : root : Login fields are visible and displayed
+2026-06-03 11:36:56,037 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-03 11:36:56,037 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-03 11:36:58,850 : INFO : root : Valid login passed
+2026-06-03 11:36:58,850 : INFO : root : Valid login passed
+2026-06-03 11:37:15,309 : INFO : root : Adm:Test failed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7cda17de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7cda17e50+14900]
+	chromedriver!(No symbol) [0x7ff7cd77d5ad]
+	chromedriver!(No symbol) [0x7ff7cd7d7822]
+	chromedriver!(No symbol) [0x7ff7cd7d7b2c]
+	chromedriver!(No symbol) [0x7ff7cd827d17]
+	chromedriver!(No symbol) [0x7ff7cd82486f]
+	chromedriver!(No symbol) [0x7ff7cd7c9df8]
+	chromedriver!(No symbol) [0x7ff7cd7cace3]
+	chromedriver!GetHandleVerifier [0x7ff7cdd2cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7cdd27375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7cdd4bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7cda36045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7cda3ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7cda21bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7cda21d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7cda060e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-03 11:37:15,309 : INFO : root : Adm:Test failed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7cda17de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7cda17e50+14900]
+	chromedriver!(No symbol) [0x7ff7cd77d5ad]
+	chromedriver!(No symbol) [0x7ff7cd7d7822]
+	chromedriver!(No symbol) [0x7ff7cd7d7b2c]
+	chromedriver!(No symbol) [0x7ff7cd827d17]
+	chromedriver!(No symbol) [0x7ff7cd82486f]
+	chromedriver!(No symbol) [0x7ff7cd7c9df8]
+	chromedriver!(No symbol) [0x7ff7cd7cace3]
+	chromedriver!GetHandleVerifier [0x7ff7cdd2cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7cdd27375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7cdd4bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7cda36045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7cda3ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7cda21bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7cda21d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7cda060e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0583e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc0786427c+2c]
+
+2026-06-03 11:37:20,321 : INFO : root : Invalid login test passed
+2026-06-03 11:37:20,321 : INFO : root : Invalid login test passed
+2026-06-03 11:37:23,133 : INFO : root : Invalid login test passed
+2026-06-03 11:37:23,133 : INFO : root : Invalid login test passed
+2026-06-03 11:37:30,921 : INFO : root : Verifying Forgot Password link functionality
+2026-06-03 11:37:30,921 : INFO : root : Verifying Forgot Password link functionality
+2026-06-03 11:37:42,415 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-03 11:37:42,415 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-03 11:46:55,563 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:46:55,563 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:47:14,798 : INFO : root : Success message displayed
+2026-06-03 11:47:14,798 : INFO : root : Success message displayed
+2026-06-03 11:47:29,484 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:47:29,484 : INFO : root : Creating a new user and validating the login
+2026-06-03 11:47:35,230 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-03 11:47:35,230 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-03 11:47:39,976 : INFO : root : Newly created user is present in the list
+2026-06-03 11:47:39,976 : INFO : root : Newly created user is present in the list
+2026-06-03 11:47:50,987 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 11:47:50,987 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 11:47:53,753 : INFO : root : Main menu items is visible and enabled
+2026-06-03 11:47:53,753 : INFO : root : Main menu items is visible and enabled
+2026-06-03 11:48:04,636 : INFO : root : Validate the presence of menu items under My Info
+2026-06-03 11:48:04,636 : INFO : root : Validate the presence of menu items under My Info
+2026-06-03 11:48:44,399 : INFO : root : Menu items under My info is visible and clickable
+2026-06-03 11:48:44,399 : INFO : root : Menu items under My info is visible and clickable
+2026-06-03 11:48:59,660 : INFO : root : Initiating the claim request
+2026-06-03 11:48:59,660 : INFO : root : Initiating the claim request
+2026-06-03 11:49:20,855 : INFO : root : Claim request has been initiated successfully
+2026-06-03 11:49:20,855 : INFO : root : Claim request has been initiated successfully
+2026-06-03 11:49:25,643 : INFO : root : The claim request is listed in claim history
+2026-06-03 11:49:25,643 : INFO : root : The claim request is listed in claim history
+2026-06-03 11:49:34,544 : INFO : root : Verifying the home URL is accessible
+2026-06-03 11:49:34,544 : INFO : root : Verifying the home URL is accessible
+2026-06-03 11:49:34,548 : INFO : root : Home URL loaded without any error
+2026-06-03 11:49:34,548 : INFO : root : Home URL loaded without any error
+2026-06-03 11:49:59,571 : INFO : root : Validating presence of login fields
+2026-06-03 11:49:59,571 : INFO : root : Validating presence of login fields
+2026-06-03 11:50:00,648 : INFO : root : Login fields are visible and displayed
+2026-06-03 11:50:00,648 : INFO : root : Login fields are visible and displayed
+2026-06-03 11:50:09,248 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-03 11:50:09,248 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-03 11:50:11,327 : INFO : root : Valid login passed
+2026-06-03 11:50:11,327 : INFO : root : Valid login passed
+2026-06-03 11:50:15,843 : INFO : root : Invalid login test passed
+2026-06-03 11:50:15,843 : INFO : root : Invalid login test passed
+2026-06-03 11:50:18,255 : INFO : root : Invalid login test passed
+2026-06-03 11:50:18,255 : INFO : root : Invalid login test passed
+2026-06-03 11:50:20,173 : INFO : root : Invalid login test passed
+2026-06-03 11:50:20,173 : INFO : root : Invalid login test passed
+2026-06-03 11:50:29,262 : INFO : root : Verifying Forgot Password link functionality
+2026-06-03 11:50:29,262 : INFO : root : Verifying Forgot Password link functionality
+2026-06-03 11:50:34,991 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-03 11:50:34,991 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-03 15:34:26,168 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 15:34:26,168 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 15:39:05,153 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 15:39:05,153 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 15:39:51,325 : INFO : root : Verifying the home URL is accessible
+2026-06-03 15:39:51,325 : INFO : root : Verifying the home URL is accessible
+2026-06-03 15:41:01,245 : INFO : root : Validating presence of login fields
+2026-06-03 15:41:01,245 : INFO : root : Validating presence of login fields
+2026-06-03 15:41:39,038 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-03 15:41:39,038 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-03 15:41:45,651 : INFO : root : Valid login passed
+2026-06-03 15:41:45,651 : INFO : root : Valid login passed
+2026-06-03 15:42:05,336 : INFO : root : Invalid login test passed
+2026-06-03 15:42:05,336 : INFO : root : Invalid login test passed
+2026-06-03 15:42:13,358 : INFO : root : Invalid login test passed
+2026-06-03 15:42:13,358 : INFO : root : Invalid login test passed
+2026-06-03 15:42:20,250 : INFO : root : Invalid login test passed
+2026-06-03 15:42:20,250 : INFO : root : Invalid login test passed
+2026-06-03 15:42:32,734 : INFO : root : Verifying Forgot Password link functionality
+2026-06-03 15:42:32,734 : INFO : root : Verifying Forgot Password link functionality
+2026-06-03 15:42:51,416 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-03 15:42:51,416 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-03 15:44:28,977 : INFO : root : Creating a new user and validating the login
+2026-06-03 15:44:28,977 : INFO : root : Creating a new user and validating the login
+2026-06-03 15:45:48,877 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-03 15:45:48,877 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-04 11:00:31,987 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:00:31,987 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:00:52,437 : INFO : root : Success message displayed
+2026-06-04 11:00:52,437 : INFO : root : Success message displayed
+2026-06-04 11:01:38,778 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:01:38,778 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:01:49,280 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-04 11:01:49,280 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-04 11:01:57,926 : INFO : root : Newly created user is present in the list
+2026-06-04 11:01:57,926 : INFO : root : Newly created user is present in the list
+2026-06-04 11:02:17,800 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-04 11:02:17,800 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-04 11:02:27,109 : INFO : root : Main menu items is visible and enabled
+2026-06-04 11:02:27,109 : INFO : root : Main menu items is visible and enabled
+2026-06-04 11:02:43,952 : INFO : root : Validate the presence of menu items under My Info
+2026-06-04 11:02:43,952 : INFO : root : Validate the presence of menu items under My Info
+2026-06-04 11:03:38,854 : INFO : root : Menu items under My info is visible and clickable
+2026-06-04 11:03:38,854 : INFO : root : Menu items under My info is visible and clickable
+2026-06-04 11:04:06,624 : INFO : root : Initiating the claim request
+2026-06-04 11:04:06,624 : INFO : root : Initiating the claim request
+2026-06-04 11:04:24,116 : INFO : root : Claim request has been initiated successfully
+2026-06-04 11:04:24,116 : INFO : root : Claim request has been initiated successfully
+2026-06-04 11:04:38,097 : INFO : root : unable to find the claim request in the claim history due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff782b733f5+14875]
+	chromedriver!GetHandleVerifier [0x7ff782b73450+148d0]
+	chromedriver!(No symbol) [0x7ff7826c778d]
+	chromedriver!(No symbol) [0x7ff78272195d]
+	chromedriver!(No symbol) [0x7ff782721c5c]
+	chromedriver!(No symbol) [0x7ff782771e37]
+	chromedriver!(No symbol) [0x7ff78276e9fc]
+	chromedriver!(No symbol) [0x7ff782713eb0]
+	chromedriver!(No symbol) [0x7ff782714e23]
+	chromedriver!GetHandleVerifier [0x7ff783156c61+5f80e1]
+	chromedriver!GetHandleVerifier [0x7ff783150feb+5f246b]
+	chromedriver!GetHandleVerifier [0x7ff7831762d5+617755]
+	chromedriver!GetHandleVerifier [0x7ff782b903ae+3182e]
+	chromedriver!GetHandleVerifier [0x7ff782b98acc+39f4c]
+	chromedriver!GetHandleVerifier [0x7ff782b7cac4+1df44]
+	chromedriver!GetHandleVerifier [0x7ff782b7cc54+1e0d4]
+	chromedriver!GetHandleVerifier [0x7ff782b60957+1dd7]
+	KERNEL32!BaseThreadInitThunk [0x7ffb83c2e957+17]
+	ntdll!RtlUserThreadStart [0x7ffb84cc427c+2c]
+
+2026-06-04 11:04:38,097 : INFO : root : unable to find the claim request in the claim history due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff782b733f5+14875]
+	chromedriver!GetHandleVerifier [0x7ff782b73450+148d0]
+	chromedriver!(No symbol) [0x7ff7826c778d]
+	chromedriver!(No symbol) [0x7ff78272195d]
+	chromedriver!(No symbol) [0x7ff782721c5c]
+	chromedriver!(No symbol) [0x7ff782771e37]
+	chromedriver!(No symbol) [0x7ff78276e9fc]
+	chromedriver!(No symbol) [0x7ff782713eb0]
+	chromedriver!(No symbol) [0x7ff782714e23]
+	chromedriver!GetHandleVerifier [0x7ff783156c61+5f80e1]
+	chromedriver!GetHandleVerifier [0x7ff783150feb+5f246b]
+	chromedriver!GetHandleVerifier [0x7ff7831762d5+617755]
+	chromedriver!GetHandleVerifier [0x7ff782b903ae+3182e]
+	chromedriver!GetHandleVerifier [0x7ff782b98acc+39f4c]
+	chromedriver!GetHandleVerifier [0x7ff782b7cac4+1df44]
+	chromedriver!GetHandleVerifier [0x7ff782b7cc54+1e0d4]
+	chromedriver!GetHandleVerifier [0x7ff782b60957+1dd7]
+	KERNEL32!BaseThreadInitThunk [0x7ffb83c2e957+17]
+	ntdll!RtlUserThreadStart [0x7ffb84cc427c+2c]
+
+2026-06-04 11:04:48,431 : INFO : root : Verifying the home URL is accessible
+2026-06-04 11:04:48,431 : INFO : root : Verifying the home URL is accessible
+2026-06-04 11:04:52,628 : INFO : root : Home URL loaded without any error
+2026-06-04 11:04:52,628 : INFO : root : Home URL loaded without any error
+2026-06-04 11:05:05,312 : INFO : root : Validating presence of login fields
+2026-06-04 11:05:05,312 : INFO : root : Validating presence of login fields
+2026-06-04 11:05:06,470 : INFO : root : Login fields are visible and displayed
+2026-06-04 11:05:06,470 : INFO : root : Login fields are visible and displayed
+2026-06-04 11:05:14,701 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-04 11:05:14,701 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-04 11:05:23,736 : INFO : root : Valid login passed
+2026-06-04 11:05:23,736 : INFO : root : Valid login passed
+2026-06-04 11:05:33,605 : INFO : root : Invalid login test passed
+2026-06-04 11:05:33,605 : INFO : root : Invalid login test passed
+2026-06-04 11:05:37,050 : INFO : root : Invalid login test passed
+2026-06-04 11:05:37,050 : INFO : root : Invalid login test passed
+2026-06-04 11:05:40,797 : INFO : root : Invalid login test passed
+2026-06-04 11:05:40,797 : INFO : root : Invalid login test passed
+2026-06-04 11:05:51,005 : INFO : root : Verifying Forgot Password link functionality
+2026-06-04 11:05:51,005 : INFO : root : Verifying Forgot Password link functionality
+2026-06-04 11:05:55,882 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-04 11:05:55,882 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-04 11:11:54,128 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:11:54,128 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:12:04,371 : INFO : root : Success message displayed
+2026-06-04 11:12:04,371 : INFO : root : Success message displayed
+2026-06-04 11:12:18,267 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:12:18,267 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:12:21,523 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-04 11:12:21,523 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-04 11:12:24,236 : INFO : root : Newly created user is present in the list
+2026-06-04 11:12:24,236 : INFO : root : Newly created user is present in the list
+2026-06-04 11:12:29,377 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-04 11:12:29,377 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-04 11:12:35,707 : INFO : root : Main menu items is visible and enabled
+2026-06-04 11:12:35,707 : INFO : root : Main menu items is visible and enabled
+2026-06-04 11:12:51,025 : INFO : root : Validate the presence of menu items under My Info
+2026-06-04 11:12:51,025 : INFO : root : Validate the presence of menu items under My Info
+2026-06-04 11:13:07,005 : INFO : root : Menu items under My info is visible and clickable
+2026-06-04 11:13:07,005 : INFO : root : Menu items under My info is visible and clickable
+2026-06-04 11:13:17,153 : INFO : root : Initiating the claim request
+2026-06-04 11:13:17,153 : INFO : root : Initiating the claim request
+2026-06-04 11:13:23,841 : INFO : root : Claim request has been initiated successfully
+2026-06-04 11:13:23,841 : INFO : root : Claim request has been initiated successfully
+2026-06-04 11:13:25,628 : INFO : root : The claim request is listed in claim history
+2026-06-04 11:13:25,628 : INFO : root : The claim request is listed in claim history
+2026-06-04 11:13:34,204 : INFO : root : Verifying the home URL is accessible
+2026-06-04 11:13:34,204 : INFO : root : Verifying the home URL is accessible
+2026-06-04 11:13:34,209 : INFO : root : Home URL loaded without any error
+2026-06-04 11:13:34,209 : INFO : root : Home URL loaded without any error
+2026-06-04 11:13:51,703 : INFO : root : Validating presence of login fields
+2026-06-04 11:13:51,703 : INFO : root : Validating presence of login fields
+2026-06-04 11:13:52,809 : INFO : root : Login fields are visible and displayed
+2026-06-04 11:13:52,809 : INFO : root : Login fields are visible and displayed
+2026-06-04 11:14:02,153 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-04 11:14:02,153 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-04 11:14:05,211 : INFO : root : Valid login passed
+2026-06-04 11:14:05,211 : INFO : root : Valid login passed
+2026-06-04 11:14:12,124 : INFO : root : Invalid login test passed
+2026-06-04 11:14:12,124 : INFO : root : Invalid login test passed
+2026-06-04 11:14:15,141 : INFO : root : Invalid login test passed
+2026-06-04 11:14:15,141 : INFO : root : Invalid login test passed
+2026-06-04 11:14:17,622 : INFO : root : Invalid login test passed
+2026-06-04 11:14:17,622 : INFO : root : Invalid login test passed
+2026-06-04 11:14:26,483 : INFO : root : Verifying Forgot Password link functionality
+2026-06-04 11:14:26,483 : INFO : root : Verifying Forgot Password link functionality
+2026-06-04 11:14:32,159 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-04 11:14:32,159 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-04 11:16:29,799 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:16:29,799 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:16:47,138 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2026-06-04 11:16:47,138 : INFO : root : Success message not displayed due to Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2026-06-04 11:18:02,066 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:18:02,066 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:18:12,110 : INFO : root : Success message displayed
+2026-06-04 11:18:12,110 : INFO : root : Success message displayed
+2026-06-04 11:18:37,023 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:18:37,023 : INFO : root : Creating a new user and validating the login
+2026-06-04 11:18:39,718 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-04 11:18:39,718 : INFO : root : Validating presence of the newly created user in the admin user list
+2026-06-04 11:18:43,795 : INFO : root : Newly created user is present in the list
+2026-06-04 11:18:43,795 : INFO : root : Newly created user is present in the list
+2026-06-04 11:19:03,115 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-04 11:19:03,115 : INFO : root : Verifying visibility and clickability of main menu items after login
+2026-06-04 11:19:11,864 : INFO : root : Main menu items is visible and enabled
+2026-06-04 11:19:11,864 : INFO : root : Main menu items is visible and enabled
+2026-06-04 11:19:34,402 : INFO : root : Validate the presence of menu items under My Info
+2026-06-04 11:19:34,402 : INFO : root : Validate the presence of menu items under My Info
+2026-06-04 11:19:55,336 : INFO : root : Menu items under My info is visible and clickable
+2026-06-04 11:19:55,336 : INFO : root : Menu items under My info is visible and clickable
+2026-06-04 11:20:18,683 : INFO : root : Initiating the claim request
+2026-06-04 11:20:18,683 : INFO : root : Initiating the claim request
+2026-06-04 11:20:27,281 : INFO : root : Claim request has been initiated successfully
+2026-06-04 11:20:27,281 : INFO : root : Claim request has been initiated successfully
+2026-06-04 11:20:29,540 : INFO : root : The claim request is listed in claim history
+2026-06-04 11:20:29,540 : INFO : root : The claim request is listed in claim history
+2026-06-04 11:20:48,286 : INFO : root : Verifying the home URL is accessible
+2026-06-04 11:20:48,286 : INFO : root : Verifying the home URL is accessible
+2026-06-04 11:20:48,295 : INFO : root : Home URL loaded without any error
+2026-06-04 11:20:48,295 : INFO : root : Home URL loaded without any error
+2026-06-04 11:21:05,717 : INFO : root : Validating presence of login fields
+2026-06-04 11:21:05,717 : INFO : root : Validating presence of login fields
+2026-06-04 11:21:07,795 : INFO : root : Login fields are visible and displayed
+2026-06-04 11:21:07,795 : INFO : root : Login fields are visible and displayed
+2026-06-04 11:21:25,361 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-04 11:21:25,361 : INFO : root : Validating login functionality using multiple sets of credentials
+2026-06-04 11:21:27,462 : INFO : root : Valid login passed
+2026-06-04 11:21:27,462 : INFO : root : Valid login passed
+2026-06-04 11:21:32,056 : INFO : root : Invalid login test passed
+2026-06-04 11:21:32,056 : INFO : root : Invalid login test passed
+2026-06-04 11:21:34,810 : INFO : root : Invalid login test passed
+2026-06-04 11:21:34,810 : INFO : root : Invalid login test passed
+2026-06-04 11:21:36,450 : INFO : root : Invalid login test passed
+2026-06-04 11:21:36,450 : INFO : root : Invalid login test passed
+2026-06-04 11:21:53,737 : INFO : root : Verifying Forgot Password link functionality
+2026-06-04 11:21:53,737 : INFO : root : Verifying Forgot Password link functionality
+2026-06-04 11:21:57,369 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-04 11:21:57,369 : INFO : root : Reset password link has sent successfully to the registered email id
+2026-06-04 16:14:06,678 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:14:06,678 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:14:17,665 : INFO : builtins : Success message displayed
+2026-06-04 16:14:17,665 : INFO : builtins : Success message displayed
+2026-06-04 16:14:41,606 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:14:41,606 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:14:51,930 : INFO : builtins : Validating presence of the newly created user in the admin user list
+2026-06-04 16:14:51,930 : INFO : builtins : Validating presence of the newly created user in the admin user list
+2026-06-04 16:14:59,274 : INFO : builtins : Newly created user is present in the list
+2026-06-04 16:14:59,274 : INFO : builtins : Newly created user is present in the list
+2026-06-04 16:15:12,659 : INFO : builtins : Verifying visibility and clickability of main menu items after login
+2026-06-04 16:15:12,659 : INFO : builtins : Verifying visibility and clickability of main menu items after login
+2026-06-04 16:15:27,980 : INFO : builtins : Main menu items is visible and enabled
+2026-06-04 16:15:27,980 : INFO : builtins : Main menu items is visible and enabled
+2026-06-04 16:15:43,024 : INFO : builtins : Validate the presence of menu items under My Info
+2026-06-04 16:15:43,024 : INFO : builtins : Validate the presence of menu items under My Info
+2026-06-04 16:16:22,029 : INFO : builtins : Menu items under My info is visible and clickable
+2026-06-04 16:16:22,029 : INFO : builtins : Menu items under My info is visible and clickable
+2026-06-04 16:16:36,905 : INFO : builtins : Initiating the claim request
+2026-06-04 16:16:36,905 : INFO : builtins : Initiating the claim request
+2026-06-04 16:16:46,777 : INFO : builtins : Claim request has been initiated successfully
+2026-06-04 16:16:46,777 : INFO : builtins : Claim request has been initiated successfully
+2026-06-04 16:16:50,141 : INFO : builtins : The claim request is listed in claim history
+2026-06-04 16:16:50,141 : INFO : builtins : The claim request is listed in claim history
+2026-06-04 16:16:59,360 : INFO : builtins : Verifying the home URL is accessible
+2026-06-04 16:16:59,360 : INFO : builtins : Verifying the home URL is accessible
+2026-06-04 16:17:03,149 : INFO : builtins : Home URL loaded without any error
+2026-06-04 16:17:03,149 : INFO : builtins : Home URL loaded without any error
+2026-06-04 16:17:11,538 : INFO : builtins : Validating presence of login fields
+2026-06-04 16:17:11,538 : INFO : builtins : Validating presence of login fields
+2026-06-04 16:17:16,907 : INFO : builtins : Login fields are visible and displayed
+2026-06-04 16:17:16,907 : INFO : builtins : Login fields are visible and displayed
+2026-06-04 16:17:27,672 : INFO : builtins : Validating login functionality using multiple sets of credentials
+2026-06-04 16:17:27,672 : INFO : builtins : Validating login functionality using multiple sets of credentials
+2026-06-04 16:17:30,708 : INFO : builtins : Valid login passed
+2026-06-04 16:17:30,708 : INFO : builtins : Valid login passed
+2026-06-04 16:17:49,554 : INFO : builtins : Adm:Test failed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff628c733f5+14875]
+	chromedriver!GetHandleVerifier [0x7ff628c73450+148d0]
+	chromedriver!(No symbol) [0x7ff6287c778d]
+	chromedriver!(No symbol) [0x7ff62882195d]
+	chromedriver!(No symbol) [0x7ff628821c5c]
+	chromedriver!(No symbol) [0x7ff628871e37]
+	chromedriver!(No symbol) [0x7ff62886e9fc]
+	chromedriver!(No symbol) [0x7ff628813eb0]
+	chromedriver!(No symbol) [0x7ff628814e23]
+	chromedriver!GetHandleVerifier [0x7ff629256c61+5f80e1]
+	chromedriver!GetHandleVerifier [0x7ff629250feb+5f246b]
+	chromedriver!GetHandleVerifier [0x7ff6292762d5+617755]
+	chromedriver!GetHandleVerifier [0x7ff628c903ae+3182e]
+	chromedriver!GetHandleVerifier [0x7ff628c98acc+39f4c]
+	chromedriver!GetHandleVerifier [0x7ff628c7cac4+1df44]
+	chromedriver!GetHandleVerifier [0x7ff628c7cc54+1e0d4]
+	chromedriver!GetHandleVerifier [0x7ff628c60957+1dd7]
+	KERNEL32!BaseThreadInitThunk [0x7ffb83c2e957+17]
+	ntdll!RtlUserThreadStart [0x7ffb84cc427c+2c]
+
+2026-06-04 16:17:49,554 : INFO : builtins : Adm:Test failed due to Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff628c733f5+14875]
+	chromedriver!GetHandleVerifier [0x7ff628c73450+148d0]
+	chromedriver!(No symbol) [0x7ff6287c778d]
+	chromedriver!(No symbol) [0x7ff62882195d]
+	chromedriver!(No symbol) [0x7ff628821c5c]
+	chromedriver!(No symbol) [0x7ff628871e37]
+	chromedriver!(No symbol) [0x7ff62886e9fc]
+	chromedriver!(No symbol) [0x7ff628813eb0]
+	chromedriver!(No symbol) [0x7ff628814e23]
+	chromedriver!GetHandleVerifier [0x7ff629256c61+5f80e1]
+	chromedriver!GetHandleVerifier [0x7ff629250feb+5f246b]
+	chromedriver!GetHandleVerifier [0x7ff6292762d5+617755]
+	chromedriver!GetHandleVerifier [0x7ff628c903ae+3182e]
+	chromedriver!GetHandleVerifier [0x7ff628c98acc+39f4c]
+	chromedriver!GetHandleVerifier [0x7ff628c7cac4+1df44]
+	chromedriver!GetHandleVerifier [0x7ff628c7cc54+1e0d4]
+	chromedriver!GetHandleVerifier [0x7ff628c60957+1dd7]
+	KERNEL32!BaseThreadInitThunk [0x7ffb83c2e957+17]
+	ntdll!RtlUserThreadStart [0x7ffb84cc427c+2c]
+
+2026-06-04 16:17:53,635 : INFO : builtins : Invalid login test passed
+2026-06-04 16:17:53,635 : INFO : builtins : Invalid login test passed
+2026-06-04 16:17:56,714 : INFO : builtins : Invalid login test passed
+2026-06-04 16:17:56,714 : INFO : builtins : Invalid login test passed
+2026-06-04 16:18:08,690 : INFO : builtins : Verifying Forgot Password link functionality
+2026-06-04 16:18:08,690 : INFO : builtins : Verifying Forgot Password link functionality
+2026-06-04 16:18:12,846 : INFO : builtins : Reset password link has sent successfully to the registered email id
+2026-06-04 16:18:12,846 : INFO : builtins : Reset password link has sent successfully to the registered email id
+2026-06-04 16:23:02,304 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:23:02,304 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:23:12,939 : INFO : builtins : Success message displayed
+2026-06-04 16:23:12,939 : INFO : builtins : Success message displayed
+2026-06-04 16:23:29,279 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:23:29,279 : INFO : builtins : Creating a new user and validating the login
+2026-06-04 16:23:33,562 : INFO : builtins : Validating presence of the newly created user in the admin user list
+2026-06-04 16:23:33,562 : INFO : builtins : Validating presence of the newly created user in the admin user list
+2026-06-04 16:23:36,444 : INFO : builtins : Newly created user is present in the list
+2026-06-04 16:23:36,444 : INFO : builtins : Newly created user is present in the list
+2026-06-04 16:23:41,986 : INFO : builtins : Verifying visibility and clickability of main menu items after login
+2026-06-04 16:23:41,986 : INFO : builtins : Verifying visibility and clickability of main menu items after login
+2026-06-04 16:23:47,869 : INFO : builtins : Main menu items is visible and enabled
+2026-06-04 16:23:47,869 : INFO : builtins : Main menu items is visible and enabled
+2026-06-04 16:23:58,331 : INFO : builtins : Validate the presence of menu items under My Info
+2026-06-04 16:23:58,331 : INFO : builtins : Validate the presence of menu items under My Info
+2026-06-04 16:24:18,029 : INFO : builtins : Menu items under My info is visible and clickable
+2026-06-04 16:24:18,029 : INFO : builtins : Menu items under My info is visible and clickable
+2026-06-04 16:24:29,441 : INFO : builtins : Initiating the claim request
+2026-06-04 16:24:29,441 : INFO : builtins : Initiating the claim request
+2026-06-04 16:24:35,830 : INFO : builtins : Claim request has been initiated successfully
+2026-06-04 16:24:35,830 : INFO : builtins : Claim request has been initiated successfully
+2026-06-04 16:24:38,404 : INFO : builtins : The claim request is listed in claim history
+2026-06-04 16:24:38,404 : INFO : builtins : The claim request is listed in claim history
+2026-06-04 16:24:47,613 : INFO : builtins : Verifying the home URL is accessible
+2026-06-04 16:24:47,613 : INFO : builtins : Verifying the home URL is accessible
+2026-06-04 16:24:47,623 : INFO : builtins : Home URL loaded without any error
+2026-06-04 16:24:47,623 : INFO : builtins : Home URL loaded without any error
+2026-06-04 16:24:54,868 : INFO : builtins : Validating presence of login fields
+2026-06-04 16:24:54,868 : INFO : builtins : Validating presence of login fields
+2026-06-04 16:24:55,508 : INFO : builtins : Login fields are visible and displayed
+2026-06-04 16:24:55,508 : INFO : builtins : Login fields are visible and displayed
+2026-06-04 16:25:03,513 : INFO : builtins : Validating login functionality using multiple sets of credentials
+2026-06-04 16:25:03,513 : INFO : builtins : Validating login functionality using multiple sets of credentials
+2026-06-04 16:25:05,806 : INFO : builtins : Valid login passed
+2026-06-04 16:25:05,806 : INFO : builtins : Valid login passed
+2026-06-04 16:25:12,145 : INFO : builtins : Invalid login test passed
+2026-06-04 16:25:12,145 : INFO : builtins : Invalid login test passed
+2026-06-04 16:25:14,462 : INFO : builtins : Invalid login test passed
+2026-06-04 16:25:14,462 : INFO : builtins : Invalid login test passed
+2026-06-04 16:25:16,895 : INFO : builtins : Invalid login test passed
+2026-06-04 16:25:16,895 : INFO : builtins : Invalid login test passed
+2026-06-04 16:25:24,896 : INFO : builtins : Verifying Forgot Password link functionality
+2026-06-04 16:25:24,896 : INFO : builtins : Verifying Forgot Password link functionality
+2026-06-04 16:25:29,288 : INFO : builtins : Reset password link has sent successfully to the registered email id
+2026-06-04 16:25:29,288 : INFO : builtins : Reset password link has sent successfully to the registered email id
+2026-06-05 06:22:10,584 : INFO : builtins : Creating a new user and validating the login
+2026-06-05 06:22:10,584 : INFO : builtins : Creating a new user and validating the login
+2026-06-05 06:22:22,485 : INFO : builtins : Success message displayed
+2026-06-05 06:22:22,485 : INFO : builtins : Success message displayed
+2026-06-05 06:22:36,522 : INFO : builtins : Creating a new user and validating the login
+2026-06-05 06:22:36,522 : INFO : builtins : Creating a new user and validating the login
+2026-06-05 06:22:39,784 : INFO : builtins : Validating presence of the newly created user in the admin user list
+2026-06-05 06:22:39,784 : INFO : builtins : Validating presence of the newly created user in the admin user list
+2026-06-05 06:22:42,661 : INFO : builtins : Newly created user is present in the list
+2026-06-05 06:22:42,661 : INFO : builtins : Newly created user is present in the list
+2026-06-05 06:22:51,642 : INFO : builtins : Verifying visibility and clickability of main menu items after login
+2026-06-05 06:22:51,642 : INFO : builtins : Verifying visibility and clickability of main menu items after login
+2026-06-05 06:22:55,096 : INFO : builtins : Main menu items is visible and enabled
+2026-06-05 06:22:55,096 : INFO : builtins : Main menu items is visible and enabled
+2026-06-05 06:23:05,055 : INFO : builtins : Validate the presence of menu items under My Info
+2026-06-05 06:23:05,055 : INFO : builtins : Validate the presence of menu items under My Info
+2026-06-05 06:23:27,963 : INFO : builtins : Menu items under My info is visible and clickable
+2026-06-05 06:23:27,963 : INFO : builtins : Menu items under My info is visible and clickable
+2026-06-05 06:23:38,452 : INFO : builtins : Initiating the claim request
+2026-06-05 06:23:38,452 : INFO : builtins : Initiating the claim request
+2026-06-05 06:23:46,581 : INFO : builtins : Claim request has been initiated successfully
+2026-06-05 06:23:46,581 : INFO : builtins : Claim request has been initiated successfully
+2026-06-05 06:23:48,497 : INFO : builtins : The claim request is listed in claim history
+2026-06-05 06:23:48,497 : INFO : builtins : The claim request is listed in claim history
+2026-06-05 06:23:54,645 : INFO : builtins : Verifying the home URL is accessible
+2026-06-05 06:23:54,645 : INFO : builtins : Verifying the home URL is accessible
+2026-06-05 06:23:57,439 : INFO : builtins : Home URL loaded without any error
+2026-06-05 06:23:57,439 : INFO : builtins : Home URL loaded without any error
+2026-06-05 06:24:05,708 : INFO : builtins : Validating presence of login fields
+2026-06-05 06:24:05,708 : INFO : builtins : Validating presence of login fields
+2026-06-05 06:24:06,365 : INFO : builtins : Login fields are visible and displayed
+2026-06-05 06:24:06,365 : INFO : builtins : Login fields are visible and displayed
+2026-06-05 06:24:15,068 : INFO : builtins : Validating login functionality using multiple sets of credentials
+2026-06-05 06:24:15,068 : INFO : builtins : Validating login functionality using multiple sets of credentials
+2026-06-05 06:24:17,649 : INFO : builtins : Valid login passed
+2026-06-05 06:24:17,649 : INFO : builtins : Valid login passed
+2026-06-05 06:24:22,573 : INFO : builtins : Invalid login test passed
+2026-06-05 06:24:22,573 : INFO : builtins : Invalid login test passed
+2026-06-05 06:24:25,016 : INFO : builtins : Invalid login test passed
+2026-06-05 06:24:25,016 : INFO : builtins : Invalid login test passed
+2026-06-05 06:24:27,063 : INFO : builtins : Invalid login test passed
+2026-06-05 06:24:27,063 : INFO : builtins : Invalid login test passed
+2026-06-05 06:24:36,377 : INFO : builtins : Verifying Forgot Password link functionality
+2026-06-05 06:24:36,377 : INFO : builtins : Verifying Forgot Password link functionality
+2026-06-05 06:24:40,190 : INFO : builtins : Reset password link has sent successfully to the registered email id
+2026-06-05 06:24:40,190 : INFO : builtins : Reset password link has sent successfully to the registered email id
