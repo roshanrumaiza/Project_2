@@ -53,7 +53,7 @@ OrangeHRMApplication_Selenium_behave_Automation/
 ```
 
 ##  Features / What this Framework Provides
-- **BDD implementation using behave framework
+- **BDD implementation**- using behave framework
 - **Modular design using POM** — Pages  cleanly separates features and steps for maintainability.  
 - **Externalized test data** — Excel sheet for test data, keeps test logic separate from data.  
 - **Explicit wait** — For reliable synchronization with web elements
