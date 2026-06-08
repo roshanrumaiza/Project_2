@@ -28,7 +28,7 @@ OrangeHRMApplication_Selenium_behave_Automation/
 │   ├── Homepage.feature
 │   ├── info.feature
 │   ├── Leave.feature
-|    ├── login_feature
+|   ├── login_feature
 │   ├── steps/
 │   │   ├── Admin_steps.py
 │   │   ├── claim_steps.py
